@@ -138,15 +138,6 @@
     behaviors {
         // Tap dance especiales
 
-                msc: mouse_scroll {
-            compatible = "zmk,behavior-input-two-axis";
-            #binding-cells = <1>;
-            x-input-code = <INPUT_REL_HWHEEL>;
-            y-input-code = <INPUT_REL_WHEEL>;
-            time-to-max-speed-ms = <300>;
-            acceleration-exponent = <1>;
-        };
-
         Ene_ene: Ene_ene {
             compatible = "zmk,behavior-tap-dance";
             label = "ENE_ENE";
