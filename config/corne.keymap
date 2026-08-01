@@ -9,7 +9,7 @@
 #define LAYER_4 4
 #define LAYER_5 5
 #define LAYER_6 6
-<<<<<<< HEAD
+
 
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 20
 
